@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Oplikoo
+- 👀 I’m interested in javascript and python
+- 🌱 I’m currently don't learning any lang
+- 💞️ I’m 
+- 📫 How to reach me : Youtube(Oplikoo), Discord(Bo!ArDev#0479)
